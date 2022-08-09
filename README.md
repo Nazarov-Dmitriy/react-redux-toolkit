@@ -1,3 +1,6 @@
+[![Build and publish](https://github.com/Nazarov-Dmitriy/react-redux-toolkit/actions/workflows/build.yml/badge.svg)](https://github.com/Nazarov-Dmitriy/react-redux-toolkit/actions/workflows/build.yml)
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
