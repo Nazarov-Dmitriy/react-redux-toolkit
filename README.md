@@ -1,4 +1,4 @@
-[![Build and publish](https://github.com/Nazarov-Dmitriy/react-redux-toolkit/actions/workflows/build.yml/badge.svg)](https://github.com/Nazarov-Dmitriy/react-redux-toolkit/actions/workflows/build.yml)
+[![pages-build-deployment](https://github.com/Nazarov-Dmitriy/react-redux-toolkit/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/Nazarov-Dmitriy/react-redux-toolkit/actions/workflows/pages/pages-build-deployment)
 
 
 # Getting Started with Create React App and Redux
